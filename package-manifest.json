@@ -1,0 +1,88 @@
+{
+  "Package": "PHD2-QHY5RII-v0.1-test",
+  "ReleaseDate": "2026-11-02",
+  "PersonalDataIncluded": false,
+  "VendorDLLIncluded": false,
+  "Files": [
+    {
+      "Name": "Check.cmd",
+      "SHA256": "DC8E2EFD2BBD820046DE05B87F023F06EF88AA4E727874181C9AC05D19B301E4",
+      "Bytes": 111
+    },
+    {
+      "Name": "Common.ps1",
+      "SHA256": "2C77F67F16D2B7D9647EA4217114D551ECDD67E71A71CB568E3CD2AFDB11E516",
+      "Bytes": 4206
+    },
+    {
+      "Name": "Install-PHD2-Driver-Admin.ps1",
+      "SHA256": "8D21DAA491CE2DC7BCDEBDA557B7F6FB474B51C3843B0953154836D9FC48C560",
+      "Bytes": 4352
+    },
+    {
+      "Name": "Install.cmd",
+      "SHA256": "EA69895E0A48C6621758E3073717F71C7B49D7C907817E44BC90678411145312",
+      "Bytes": 113
+    },
+    {
+      "Name": "LICENSE-Mono.Cecil.txt",
+      "SHA256": "14FAECBA37F36C5B6B22FEDAFBB1FA9D47C01E1EC3092A56674D2F2C30EEFEBC",
+      "Bytes": 1099
+    },
+    {
+      "Name": "LICENSE-patch.txt",
+      "SHA256": "39D651674A7EBED3F99D7BFF9D5422DFBEDDAFF2B4A00DA5849C23898D5B5371",
+      "Bytes": 1074
+    },
+    {
+      "Name": "Manage-PHD2.ps1",
+      "SHA256": "7E2B2A1BCBA4A3434909186B787D19EF16E0E7C73AAEC3190FA96554F1746E5C",
+      "Bytes": 9730
+    },
+    {
+      "Name": "README.md",
+      "SHA256": "DF3F798AC4BD8340A0C03551F8317E1AB41F00D63A1860FDD0ED0139EAB07C09",
+      "Bytes": 2769
+    },
+    {
+      "Name": "Restore.cmd",
+      "SHA256": "B19A0F213728E26CA4697800A791FE7AB71DE3459AFD666D9E0EA8EE396A75B7",
+      "Bytes": 113
+    },
+    {
+      "Name": "source\\DriverCheck.cs",
+      "SHA256": "D2239E5A369A5BCA482DD7049FCF5BBB6140DCAD5C4BF1245AF5FFEB2197FE8A",
+      "Bytes": 3596
+    },
+    {
+      "Name": "source\\PatchAscomExposureTransition.cs",
+      "SHA256": "0E35C5ED829956DCC316D20EFC216E65B7C3DA522D296DD637D8B869E0FEC955",
+      "Bytes": 10039
+    },
+    {
+      "Name": "tools\\DriverCheck.exe",
+      "SHA256": "3B64BC5F37AE5117FC2DDFFF7162B60D9B18FD2E54B40F490F08072A86BB71F8",
+      "Bytes": 11264
+    },
+    {
+      "Name": "tools\\Mono.Cecil.dll",
+      "SHA256": "C41BDB9FFD3C5F6E17D2382C1012D73703E035E3F1100245FDD4E08C8DC6EB5B",
+      "Bytes": 363008
+    },
+    {
+      "Name": "tools\\Mono.Cecil.Pdb.dll",
+      "SHA256": "50A1A1A79DC86FCFB8B51249B5325A10DD93D193C52999CF6775D25030A4E606",
+      "Bytes": 90112
+    },
+    {
+      "Name": "tools\\Mono.Cecil.Rocks.dll",
+      "SHA256": "842E09959084EDA733AAB1A5354D7AF79E29594F4D8B91C8792103E5C755ED9B",
+      "Bytes": 29696
+    },
+    {
+      "Name": "tools\\Phd2PatchBuilder.exe",
+      "SHA256": "07C9D39AD872017872B68B1AD68EF15C471468FD479B6920C29FEDF31D26F99F",
+      "Bytes": 16896
+    }
+  ]
+}
