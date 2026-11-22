@@ -1,5 +1,7 @@
 # PHD2 / QHY5R-II-C 快速采图、棋盘格修复与首帧优化 v0.1 TEST
 
+本驱动目的在于修复在N.I.N.A.以及PHD2上无法正确读取QHY-5-II的相机信息，无法正确解拜耳的问题。
+
 非官方实验版。仅针对 QHY5R-II-C，适配 **PHD2 2.6.14 x86**、官方 **QHY ASCOM 25.03.24.12** 与其 **x86 SDK 25.3.24.9** 的指定文件。需要已经安装 ASCOM Platform 和官方 QHY 驱动，并在官方 ASCOM 设置中选好 QHY5R-II-C。版本不匹配会停止。
 
 本包在接收者自己的电脑上生成并注册独立驱动 **QHY5RII-C Fast Transition TEST (ASCOM)**。官方驱动和原 PHD2 配置保留。生成的驱动只对 `QHY5RII-C-` 型号前缀启用曝光切换处理，不限定某一台相机的序列号。
